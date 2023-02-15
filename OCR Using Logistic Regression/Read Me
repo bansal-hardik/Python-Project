@@ -1,0 +1,2 @@
+Implemented the Optical Character using Logistic Regression 
+Here, Sklearn Logistic Regression and User defined Logisitic Regression is used to compare and find the accuracy.
